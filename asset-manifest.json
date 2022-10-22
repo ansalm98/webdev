@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.803db7f8.css",
+    "main.js": "/static/js/main.3128fff0.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/bf.jpg": "/static/media/bf.c997cb09b4d2a4c8acdc.jpg",
+    "static/media/net.png": "/static/media/net.5a285cf5e339be363b5f.png",
+    "static/media/am.png": "/static/media/am.c3b07bac8ea29f87ceaa.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/dash.png": "/static/media/dash.21bcf4263d7afc233b49.png",
+    "static/media/an.png": "/static/media/an.90ea0817d9b9f3bfb013.png",
+    "static/media/sub.png": "/static/media/sub.6f100c4dbe29a1e9f814.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/l.png": "/static/media/l.f4b194709d5b557d93d1.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/r.png": "/static/media/r.2fb163a999bdd4b8cc97.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/git.svg": "/static/media/git.3b21c250a99986431958daaa9246a45a.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.803db7f8.css.map": "/static/css/main.803db7f8.css.map",
+    "main.3128fff0.js.map": "/static/js/main.3128fff0.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803db7f8.css",
+    "static/js/main.3128fff0.js"
+  ]
+}
